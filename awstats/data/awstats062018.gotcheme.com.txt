@@ -1,0 +1,294 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2582                
+POS_VISITOR 6517                
+POS_DAY 7374                
+POS_DOMAIN 3215                
+POS_LOGIN 3520                
+POS_ROBOT 3675                
+POS_WORMS 3958                
+POS_EMAILSENDER 4089                
+POS_EMAILRECEIVER 4232                
+POS_SESSION 7552                
+POS_SIDER 7742                
+POS_FILETYPES 4367                
+POS_OS 4565                
+POS_BROWSER 4641                
+POS_SCREENSIZE 4726                
+POS_UNKNOWNREFERER 4800                
+POS_UNKNOWNREFERERBROWSER 4887                
+POS_ORIGIN 4969                
+POS_SEREFERRALS 5104                
+POS_PAGEREFS 5259                
+POS_SEARCHWORDS 5407                
+POS_KEYWORDS 5559                
+POS_MISC 2246                
+POS_ERRORS 5618                
+POS_CLUSTER 3376                
+POS_SIDER_404 5727                
+POS_PLUGIN_geoip_city_maxmind 5962                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180605022502 84 18267 0
+FirstTime 20180601001820
+LastTime 20180605022501
+LastUpdate 20180605071141 84 0 26 58 0
+TotalVisits 20                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 21 3117052 5 6 58969
+1 0 0 0 1 3 39726
+2 2 4 45844 1 6 952175
+3 18 98 18260878 1 11 23023
+4 7 35 7969393 3 19 730091
+5 7 57 11581610 2 4 37100
+6 0 0 0 1 5 91440
+7 0 0 0 1 23 1385177
+8 0 0 0 2 13 705241
+9 1 1 18053 2 2 12718
+10 0 0 0 0 1 589901
+11 0 0 0 0 1 178111
+12 0 0 0 0 0 0
+13 7 41 4638075 0 2 994
+14 1 1 18053 0 0 0
+15 0 0 0 1 7 810634
+16 0 0 0 3 6 79804
+17 1 1 18053 1 1 497
+18 0 0 0 1 2 16575
+19 5 33 3398391 1 1 13134
+20 0 0 0 0 0 0
+21 0 0 0 1 1 497
+22 1 1 18053 1 3 369193
+23 0 0 0 2 2 29484
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+in 23 138 24569676
+ae 12 73 16305950
+cn 8 69 8025876
+us 7 11 145847
+gb 1 1 18053
+ru 1 1 18053
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 62 4671473 20180602022214 0
+baiduspider 27 1385433 20180604233212 0
+netcraft 2 36106 20180602055729 0
+no_user_agent 1 18053 20180602032501 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 110 6180219 0 0
+png 40 6946839 0 0
+woff 17 2212628 0 0
+php 11 136624 0 0
+html 24 433272 0 0
+jpg 53 25889035 0 0
+js 31 7255133 0 0
+gif 7 29705 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 4
+macosx 32
+winxp 1
+winnt 198
+linux 62
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 3
+msie8.0 2
+firefox55.0 1
+safari 290
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 21
+From1 0 0
+From2 2 2
+From3 0 0
+From4 33 270
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 3 1491
+400 1 497
+404 23 11431
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/robots.txt 4 -
+/images/icons/widget-link-dark.png 18 http://gotcheme.com/css/dark.css
+/images/icons/widget-link-dark@2x.png 1 http://gotcheme.com/
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 9
+unknown 0 137 0 0
+ae_dubai_03 0 73 0 0
+in_mumbai_16 0 40 0 0
+in_bangalore_19 0 30 0 0
+us_mountain%20view_ca 0 8 0 0
+us_woodbridge_nj 0 2 0 0
+us_wilmington_de 0 1 0 0
+ru_vladimir_83 0 1 0 0
+gb_alexandria_w7 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+114.143.43.105 9 40 8349991 20180601035822
+2.50.102.85 7 35 7969393 20180603041157
+86.98.30.220 5 38 8336557 20180602032634
+106.208.130.54 4 14 2332951 20180604132230
+101.199.112.55 4 32 3380338 20180601194207
+110.225.224.204 4 30 7784106 20180602054412
+106.208.248.23 3 27 2305124 20180601134936
+223.186.240.150 3 27 3797504 20180602054559
+66.249.93.208 3 4 59028 20180603034647
+101.199.121.223 2 21 3117052 20180601001825
+54.183.213.47 1 1 18053 20180602032828
+66.249.93.206 1 1 18053 20180605022501 20180605022501 /
+93.179.69.161 1 1 18053 20180603141910
+163.172.4.153 1 1 18053 20180604221012
+54.208.201.232 1 1 18053 20180604090030
+66.249.93.207 0 3 14607 
+101.199.112.54 1 15 1510433 20180601033333
+52.33.17.134 1 1 18053 20180602172348
+106.120.160.114 1 1 18053 20180601193639
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20180601 21 138 18703913 7
+20180602 15 99 19977195 6
+20180603 9 38 8010368 3
+20180604 6 16 2369057 3
+20180605 1 2 22922 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+30s-2mn 1
+15mn-30mn 1
+0s-30s 13
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 24 433272 20 11
+/css/fonts/font-icons.woff 10 1797360 0 2
+/css/fonts/Simple-Line-Icons.woff 7 415268 0 3
+/chemical-trading.php 6 73326 0 1
+/contactus.php 2 22862 0 0
+/aboutus.php 1 15507 0 1
+/indenting-business.php 1 13134 0 1
+/engineering-services.php 1 11795 0 0
+END_SIDER

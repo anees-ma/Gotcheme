@@ -1,0 +1,453 @@
+# Webalizer V2.20-01 Incremental Data - 06/05/2018 02:25:02
+2018 6 5 2 25 2
+417 371 53 49 18 20 55210424 40 37 0
+2 2 62 1 5
+217 188 23088131 19 16 14
+115 108 21156174 17 10 10
+54 48 8114986 14 5 5
+29 25 2828211 15 8 7
+2 2 22922 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+27 25 3176021 3
+3 3 39726 0
+10 10 998019 2
+109 99 18283901 9
+55 49 8699981 2
+61 59 11618710 4
+5 5 91440 1
+23 23 1385177 0
+14 12 705738 1
+3 2 30771 2
+1 1 589901 0
+1 1 178111 0
+0 0 0 0
+44 27 4639566 3
+1 1 18053 1
+8 7 811131 1
+6 4 79804 2
+2 1 18550 2
+3 2 17072 0
+34 34 3411525 3
+0 0 0 0
+1 0 497 1
+4 4 387246 2
+2 2 29484 1
+0
+0
+0
+371
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+14
+0
+0
+1
+0
+0
+3
+28
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/jquery.gmap.js
+0 2 0 7864 0 0
+/
+0 36 0 649908 33 4
+/img/engineering-services-banner.jpg
+0 1 0 107556 0 0
+/chemical-trading.php
+0 7 0 85547 0 0
+/css/swiper.css
+0 16 0 291585 0 0
+/images/preloader@2x.gif
+0 1 0 6449 0 0
+/img/ethics.png
+0 1 0 11496 0 0
+/img/footer-banner.jpg
+0 7 0 3042221 0 0
+/img/chemical-trading-banner.jpg
+0 4 0 752540 0 0
+/images/preloader.gif
+0 6 0 23256 0 0
+/css/fonts/font-icons.woff
+0 10 0 1797360 0 0
+/img/logo.png
+0 9 0 131787 0 0
+/img/career-development.png
+0 1 0 7762 0 0
+/indenting-business.php
+0 3 0 39402 0 0
+/css/colors.css
+0 16 0 131025 0 0
+/css/fonts.css
+0 17 0 58880 0 0
+/contactus.php
+0 6 0 68586 0 0
+/img/contactus-banner.jpg
+0 1 0 22983 0 0
+/css/responsive.css
+0 16 0 626910 0 0
+/img/empowerment.png
+0 1 0 10050 0 0
+/css/bootstrap.css
+0 16 0 2671665 0 0
+/img/engineering-services.jpg
+0 7 0 641634 0 0
+/css/animate.css
+0 14 0 293020 0 0
+/engineering-services.php
+0 3 0 35385 0 0
+/css/dark.css
+0 16 0 797175 0 0
+/img/Engineering-service-bottom-img2.jpg
+0 1 0 97201 0 0
+/aboutus.php
+0 2 0 31014 0 0
+/img/values-parallax.jpg
+0 1 0 422283 0 0
+/img/chsl2.png
+0 8 0 3392752 0 0
+/img/indenting-business.jpg
+0 7 0 602826 0 0
+/img/Engineering-service-bottom-img1.jpg
+0 1 0 266023 0 0
+/style.css
+0 16 0 4469925 0 0
+/img/chsl1.png
+0 8 0 3312472 0 0
+/css/font-icons.css
+0 14 0 638274 0 0
+/construction.css
+0 18 0 81260 0 0
+/img/indenting-business-right.jpg
+0 1 0 68201 0 0
+/img/indenting-business-banner.jpg
+0 1 0 82083 0 0
+/img/chemical-trading.jpg
+0 8 0 898208 0 0
+/css/fonts/Simple-Line-Icons.woff
+0 7 0 415268 0 0
+/img/ct-bottom-banner.jpg
+0 4 0 15134692 0 0
+/img/favicon.png
+0 10 0 48690 0 0
+/img/aboutus-banner.jpg
+0 1 0 56096 0 0
+/js/jquery.js
+0 10 0 782334 0 0
+/js/plugins.js
+0 13 0 7078812 0 0
+/css/magnific-popup.css
+0 17 0 117984 0 0
+/js/functions.js
+0 10 0 1159758 0 0
+/img/working-together.png
+0 1 0 10691 0 0
+/img/chemicalmain.jpg
+0 8 0 3694488 0 0
+/img/healthy-environment.png
+0 1 0 21139 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-180-76-15-146.crawl.baidu.com
+0 1 1 18053 1 1528073144
+/
+baiduspider-180-76-15-157.crawl.baidu.com
+0 1 0 497 0 0
+-
+google-proxy-66-249-93-206.google.com
+0 1 1 18053 1 1528165501
+/
+baiduspider-180-76-15-13.crawl.baidu.com
+0 2 2 24929 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 2 1 178608 1 1528044179
+-
+baiduspider-180-76-15-31.crawl.baidu.com
+0 2 2 15111 0 0
+-
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 1 4780 0 0
+-
+106.208.130.54
+0 15 14 2333448 1 1528118541
+/
+crawl-66-249-75-138.googlebot.com
+0 21 20 1240762 2 1527870989
+/
+101.199.121.223
+0 21 21 3117052 1 1527812300
+/
+163-172-4-153.rev.poneytelecom.eu
+0 1 1 18053 1 1528150212
+/
+abts-north-dynamic-204.224.225.110.airtelbroadband.in
+0 31 30 7784603 1 1527918207
+/
+baiduspider-180-76-15-141.crawl.baidu.com
+0 2 2 27728 0 0
+-
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 0 497 1 1528134392
+-
+106.120.160.114
+0 1 1 18053 1 1527881799
+/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 2 2 21733 1 1528155132
+/
+crawl-66-249-69-239.googlebot.com
+0 12 10 1011591 1 1527840592
+/
+jobqueue-listener.jobqueue.netcraft.com-u71b8fa9c65b211e894194646838d6ab1u-digitalocean-2gb
+0 1 1 18053 1 1527919049
+/
+crawl-66-249-69-243.googlebot.com
+0 1 1 7374 0 0
+-
+baiduspider-180-76-15-5.crawl.baidu.com
+0 2 2 12667 0 0
+-
+baiduspider-180-76-15-9.crawl.baidu.com
+0 1 1 4780 0 0
+-
+abts-north-dynamic-150.240.186.223.airtelbroadband.in
+0 28 27 3798001 1 1527918348
+/
+101.199.112.54
+0 15 15 1510433 1 1527824013
+/
+101.199.112.55
+0 32 32 3380338 1 1527882124
+/
+google-proxy-66-249-93-208.google.com
+0 4 4 59028 3 1527997607
+/
+114.143.43.105
+0 47 40 8353470 2 1527825502
+/
+umail50.cn4e.com
+0 1 1 18053 1 1527909901
+/
+baiduspider-180-76-15-140.crawl.baidu.com
+0 1 1 11431 0 0
+-
+106.208.248.23
+0 29 13 2306118 1 1527860972
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 18053 1 1528003149
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 11431 0 0
+-
+baiduspider-180-76-15-159.crawl.baidu.com
+0 1 0 497 1 1527932721
+-
+2.50.102.85
+0 40 35 7971878 1 1527998813
+/
+crawl-66-249-75-136.googlebot.com
+0 17 15 896122 0 0
+-
+crawl-66-249-75-140.googlebot.com
+0 9 9 1025482 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-ud9590b6e65ae11e894194646838d6ab1u-digitalocean-2gb
+0 1 1 18053 1 1527893619
+/
+86.98.30.220
+0 41 38 8338048 1 1527908743
+/
+baiduspider-180-76-15-136.crawl.baidu.com
+0 1 1 589901 0 0
+-
+google-proxy-66-249-93-207.google.com
+0 3 3 14607 0 0
+-
+baiduspider-180-76-15-143.crawl.baidu.com
+0 2 2 29484 1 1527834813
+/
+baiduspider-180-76-15-147.crawl.baidu.com
+0 1 1 297995 0 0
+-
+crawl-66-249-69-241.googlebot.com
+0 8 7 493124 1 1527867064
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 18053 1 1528070991
+/
+ec2-54-183-213-47.us-west-1.compute.amazonaws.com
+0 1 1 18053 1 1527910108
+/
+baiduspider-180-76-15-161.crawl.baidu.com
+0 1 1 53145 0 0
+-
+ec2-54-208-201-232.compute-1.amazonaws.com
+0 1 1 18053 1 1528102830
+/
+baiduspider-180-76-15-14.crawl.baidu.com
+0 1 1 19439 0 0
+-
+baiduspider-180-76-15-18.crawl.baidu.com
+0 2 1 12292 1 1527975942
+-
+baiduspider-180-76-15-135.crawl.baidu.com
+0 1 1 3680 0 0
+-
+baiduspider-180-76-15-139.crawl.baidu.com
+0 1 1 13134 0 0
+-
+swim.bette.example.com
+0 1 1 18053 1 1528035550
+/
+ec2-52-33-17-134.us-west-2.compute.amazonaws.com
+0 1 1 18053 1 1527960228
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+google-proxy-66-249-93-206.google.com
+0 1 1 18053 1 1528165501
+/
+google-proxy-66-249-93-207.google.com
+0 1 1 4869 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 67
+http://gotcheme.com/css/font-icons.css
+1 6
+http://gotcheme.com
+1 1
+http://gotcheme.com/
+1 103
+http://gotcheme.com/contactus.php
+1 4
+http://www.gotcheme.com/chemical-trading.php
+1 13
+http://www.gotcheme.com/aboutus.php
+1 17
+http://gotcheme.com/chemical-trading.php
+1 4
+http://gotcheme.com/style.css
+1 3
+https://www.google.ae/
+0 1
+https://www.google.com/
+0 1
+http://www.gotcheme.com/css/font-icons.css
+1 7
+http://www.gotcheme.com/style.css
+1 3
+http://www.gotcheme.com/css/dark.css
+1 9
+http://www.gotcheme.com/indenting-business.php
+1 2
+http://www.gotcheme.com/
+1 162
+http://gotcheme.com/css/dark.css
+1 9
+http://gotcheme.com/engineering-services.php
+1 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 31
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 47
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10.10; rv:55.0) Gecko/20100101 Firefox/55.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36
+0 21
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 160
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 40
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 31
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 15
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Linux; U; Android 5.0.2; zh-CN; Redmi Note 3 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 OP
+0 32
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 8
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

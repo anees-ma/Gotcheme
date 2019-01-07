@@ -1,0 +1,23 @@
+Options -Indexes
+
+# Follow symbolic links in this directory.
+Options +FollowSymLinks
+
+# Set the default handler.
+DirectoryIndex index.php
+
+# Various rewrite rules.
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond $1 !^(index\.php|public|\.txt)
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteRule ^(.*)$ index.php?$1
+</IfModule>
+
+
+# Add headers to all responses.
+<IfModule mod_headers.c>
+ # Disable content sniffing, since it's an attack vector.
+ Header always set X-Content-Type-Options nosniff
+</IfModule>

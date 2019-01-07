@@ -1,0 +1,710 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2597                
+POS_VISITOR 15620               
+POS_DAY 22457               
+POS_DOMAIN 3462                
+POS_LOGIN 3991                
+POS_ROBOT 4146                
+POS_WORMS 4755                
+POS_EMAILSENDER 4886                
+POS_EMAILRECEIVER 5029                
+POS_SESSION 23289               
+POS_SIDER 23499               
+POS_FILETYPES 5164                
+POS_OS 5455                
+POS_BROWSER 5581                
+POS_SCREENSIZE 5862                
+POS_UNKNOWNREFERER 5936                
+POS_UNKNOWNREFERERBROWSER 6575                
+POS_ORIGIN 6972                
+POS_SEREFERRALS 7115                
+POS_PAGEREFS 7272                
+POS_SEARCHWORDS 7613                
+POS_KEYWORDS 7765                
+POS_MISC 2261                
+POS_ERRORS 7824                
+POS_CLUSTER 3847                
+POS_SIDER_404 7985                
+POS_PLUGIN_geoip_city_maxmind 14278               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180601001820 130 30161 10265109390858
+FirstTime 20180501005403
+LastTime 20180531234630
+LastUpdate 20180601063751 130 0 129 0 0
+TotalVisits 268                 
+TotalUnique 149                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 177                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 48 231 9411995 10 44 219574
+1 42 218 21061813 21 76 2385587
+2 25 142 12238394 16 49 3114432
+3 21 153 15632257 3 23 1580543
+4 21 115 18283156 8 27 4374864
+5 63 328 42980570 15 48 137730
+6 65 271 26977078 18 112 8496676
+7 61 286 32829555 10 66 4140686
+8 27 129 11937994 7 25 743290
+9 26 101 7358418 7 17 116622
+10 46 209 7683858 10 40 866096
+11 91 515 39758765 40 150 1275397
+12 94 482 40059035 47 211 9833104
+13 126 490 25229503 52 417 2125967
+14 100 539 52222615 32 212 1041453
+15 10 58 2386192 5 20 1032255
+16 4 18 1726275 20 75 5336969
+17 4 4 30014 20 74 7057351
+18 4 27 3810688 19 54 3942340
+19 1 1 18053 9 37 2482188
+20 6 32 4016249 8 15 707940
+21 3 3 38369 5 31 2098000
+22 10 47 101170 4 33 1747562
+23 59 261 23916632 12 78 967630
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+in 413 2035 99410366
+us 251 1069 122539890
+ru 88 446 29908845
+ae 60 425 55353860
+unknown 48 266 24760749
+kr 19 69 7324917
+jo 19 84 16851641
+ir 12 88 18553779
+cn 11 35 3873703
+gb 10 10 166464
+ua 5 5 90265
+jp 2 2 33560
+lv 3 27 3797504
+au 1 1 3987
+sg 0 1 112276
+eu 6 39 10726121
+pk 7 41 4510552
+de 2 16 1690169
+qa 0 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+googlebot 366 32612167 20180531225155 0
+baiduspider 115 7133503 20180531222205 0
+wordpress 52 7585270 20180526170854 0
+phantom 52 7585270 20180505073016 0
+bot[+:,\.\;\/\\-] 19 2462750 20180522133502 0
+mj12bot 12 164282 20180527025706 0
+java 6 2599928 20180512045738 0
+commons\-httpclient 4 959728 20180529014241 0
+netcraft 2 22040 20180504084922 0
+crawl 2 36106 20180519132517 0
+python 1 3987 20180503184115 0
+no_user_agent 1 0 20180504120708 0
+slurp 1 18053 20180521102652 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 3 542868 0 0
+css 1339 52558578 0 0
+png 789 58591621 0 0
+woff2 9 385800 0 0
+woff 224 16055244 0 0
+php 256 2960175 0 0
+map 2 542194 0 0
+html 347 5183180 0 0
+js 482 61045928 0 0
+jpg 994 200667906 0 0
+Unknown 116 893674 0 0
+gif 99 281480 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 260
+winxp 8
+winlong 1
+win2003 10
+winnt 3259
+linuxubuntu 1
+Unknown 64
+linux 1057
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 19
+msie6.0 1
+firefox57.0 1
+firefox53.0 1
+opera 2
+firefox52.0 1
+firefox21.0 1
+firefox29.0 1
+curl 3
+lynx 1
+firefox56.0 75
+msie8.0 6
+firefox33.0 11
+mozilla 49
+netscape5.0 1
+firefox59.0 28
+msie7.0 32
+firefox27.0 5
+Unknown 51
+safari 4390
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+curl/7.29.0 20180527093224
+WhatsApp/2.17.427_A 20180504071905
+facebookexternalhit/1.1 20180504145137
+\ 20180503100504
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180502010737
+Mozilla/5.0_(compatible;_ips-agent) 20180518123717
+Mozilla/5.0 20180531132039
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20180505014345
+Lynx/2.8.9dev.8_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.4.9 20180523132438
+WhatsApp/2.18.41_i 20180512050603
+facebookexternalhit/1.1;kakaotalk-scrap/1.0;__https://devtalk.kakao.com/t/scrap/33984 20180519040334
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20180505014345
+WhatsApp/2.17.427_A 20180504071905
+facebookexternalhit/1.1 20180504145137
+\ 20180503100504
+WhatsApp/2.18.41_i 20180512050603
+facebookexternalhit/1.1;kakaotalk-scrap/1.0;__https://devtalk.kakao.com/t/scrap/33984 20180519040334
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 329 414
+From1 2 2
+From2 13 16
+From3 20 20
+From4 593 4208
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 13 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://l.messenger.com 6 6
+https://l.facebook.com 5 5
+http://barrelyene.com 4 4
+https://www.linkedin.com 3 3
+http://www.barrelyene.com/process1.html 1 1
+http://barrelyene.com/glycols.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 11 5467
+206 39 4302206
+303 31 0
+307 11 0
+500 49 13419
+301 21 4982
+404 1139 315098
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 85
+/beta2/js/functions.js 3 http://gotcheme.com/beta2/
+/beta2/img/indenting-business-right.jpg 3 http://gotcheme.com/beta2/indenting-business.php
+/blog/wp-includes/wlwmanifest.xml 4 -
+/sitemap.xml 1 -
+/robots.txt 72 -
+/beta2/img/indenting-business.jpg 1 http://gotcheme.com/beta2/
+/images/icons/widget-link-dark@2x.png 22 http://gotcheme.com/css/responsive.css
+/site/wp-includes/wlwmanifest.xml 4 -
+/beta2/img/ct-bottom-banner.jpg 1 http://gotcheme.com/beta2/chemical-trading.php
+/images/icons/widget-link-dark.png 103 http://gotcheme.com/css/dark.css
+/downloader/ 1 -
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/mission.png 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/img/engineering-services.jpg 1 http://gotcheme.com/beta2/
+/images/ixcp.css 4 http://gotcheme.com/
+/beta/images/icons/submenu.png 2 http://gotcheme.com/beta/css/responsive.css
+/Gotche-static/Stock/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css 54 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/img/healthy-environment.png 1 http://gotcheme.com/beta2/
+/xmlrpc.php 4 -
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/stock12.jpg 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/%20. 1 -
+/Gotche-static/images/icons/widget-link-dark@2x.png 1 http://gotcheme.com/Gotche-static/css/responsive.css
+/beta2/engineering-services.html 1 -
+/beta2/images/icons/submenu.png 41 http://gotcheme.com/beta2/css/responsive.css
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/stock14.jpg 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/js/plugins.js 3 http://gotcheme.com/beta2/
+/BETEA2 1 -
+/beta2/iframe_checklist/x.png 2 http://gotcheme.com/beta2/%20.
+/beta2/images/icons/widget-link-dark@2x.png 16 http://gotcheme.com/beta2/css/responsive.css
+/beta2/img/Engineering-service-bottom-img1.jpg 2 http://gotcheme.com/beta2/engineering-services.php
+/beta2/js/jquery.js 2 http://gotcheme.com/beta2/
+/beta2/img/logo.png 1 http://gotcheme.com/beta2/
+/Gotche-static/Stock/bower_components/morris.js/morris.css 54 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/css/colors.css 2 http://gotcheme.com/beta2/
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/stock11.jpg 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/images/icon_money.png 4 http://gotcheme.com/
+/beta2/css/font-icons.css 2 http://gotcheme.com/beta2/
+/beta2/css/swiper.css 2 http://gotcheme.com/beta2/
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/ethics.png 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/3f93c5dc-3ac7-4ae9-a09a-b78844024817.jpg 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/Gotche-static/Stock/Stock/ 1 http://gotcheme.com/Gotche-static/Stock/
+/beta2/css/animate.css 2 http://gotcheme.com/beta2/
+/Gotche-static/Stock/css/signin/signin.css 39 http://gotcheme.com/Gotche-static/Stock/admin
+/Gotche-static/Stock/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js 74 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/career-development.png 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta/images/icons/widget-link-dark.png 21 http://gotcheme.com/beta/css/dark.css
+/beta2/images/icons/widget-link-dark.png 209 http://gotcheme.com/beta2/
+/wp-includes/wlwmanifest.xml 4 -
+/user/password 1 -
+/beta2/iframe_checklist/mcafee-icon.png 2 http://gotcheme.com/beta2/%20.
+/beta2/img/ethics.png 1 http://gotcheme.com/beta2/
+/beta2/images/icons/widget-link.png 3 http://gotcheme.com/beta2/style.css
+/Gotche-static/Stock/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css 54 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/blog/ 1 http://gotcheme.com/blog/
+/beta2/contactus.php 2 -
+/beta2/stock.php 1 http://gotcheme.com/beta2/
+/beta/images/icons/widget-link-dark@2x.png 1 http://gotcheme.com/beta/css/responsive.css
+/cms/wp-includes/wlwmanifest.xml 4 -
+/about:blank 2 -
+/Gotche-static/images/icons/widget-link-dark.png 3 http://gotcheme.com/Gotche-static/css/dark.css
+/beta2/css/magnific-popup.css 2 http://gotcheme.com/beta2/
+/Gotche-static/Stock/bower_components/bootstrap-daterangepicker/daterangepicker.css 54 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/Gotche-static/Stock/bower_components/jvectormap/jquery-jvectormap.css 54 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/footer.html 14 http://gotcheme.com/beta2/engineering-services.php
+/images/icon_server.png 4 http://gotcheme.com/
+/beta2/index.html 1 http://gotcheme.com/beta2/contactus.html
+/beta2/img/Engineering-service-bottom-img2.jpg 2 http://gotcheme.com/beta2/engineering-services.php
+/ads.txt 2 -
+/Gotche-static/images/icons/submenu.png 1 http://gotcheme.com/Gotche-static/css/responsive.css
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/1.jpg 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/wp/wp-includes/wlwmanifest.xml 4 -
+/Gotche-static/Stock/css/signin/ie10-viewport-bug-workaround.css 39 http://gotcheme.com/Gotche-static/Stock/admin
+/Gotche-static/Stock/bower_components/Ionicons/css/ionicons.min.css 54 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/wordpress/wp-includes/wlwmanifest.xml 4 -
+/images/icons/submenu.png 20 http://gotcheme.com/css/responsive.css
+/beta2/css/dark.css 2 http://gotcheme.com/beta2/
+/beta2/img/values-parallax.jpg 1 http://gotcheme.com/beta2/
+/Gotche-static/Stock/re/local/home/aaalsiv/gotcheme.com/Gotche-static/Stock/uploads/icons8-goal-50.png 1 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/img/working-together.png 1 http://gotcheme.com/beta2/
+/beta2/contactus.html 3 http://gotcheme.com/beta2/indenting-business.php
+/beta2/css/responsive.css 2 http://gotcheme.com/beta2/
+/chemical-trading.html 1 http://gotcheme.com/
+/beta2/css/fonts.css 2 http://gotcheme.com/beta2/
+/Gotche-static/Stock/C:/xampp/htdocs/Gotche-static/Stock/uploads/stock13.jpg 3 http://gotcheme.com/Gotche-static/Stock/admin/view_stock
+/beta2/css/bootstrap.css 2 http://gotcheme.com/beta2/
+/beta/shop.html 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 42
+unknown 0 2381 0 0
+us_mountain%20view_ca 0 827 0 0
+in_jaipur_24 0 466 0 0
+ae_sharjah_06 0 250 0 0
+ae_dubai_03 0 148 0 0
+in_delhi_07 0 114 0 0
+jo_amman_11 0 84 0 0
+kr_seoul_11 0 68 0 0
+us_midland_mi 0 43 0 0
+in_surat_09 0 39 0 0
+sg_singapore_00 0 1 0 0
+us_sterling_va 0 6 0 0
+us_fullerton_ca 0 1 0 0
+us_san%20diego_ca 0 2 0 0
+cn_beijing_22 0 2 0 0
+us_auburn%20hills_mi 0 8 0 0
+us_norwalk_ct 0 8 0 0
+us_ann%20arbor_mi 0 1 0 0
+de_aachen_07 0 16 0 0
+us_palo%20alto_ca 0 35 0 0
+pk_islamabad_08 0 1 0 0
+cn_wuhan_12 0 3 0 0
+us_lake%20forest_ca 0 3 0 0
+ua_dnepropetrovsk_04 0 2 0 0
+ae_abu%20dhabi_01 0 27 0 0
+us_washington_dc 0 12 0 0
+cn_changzhou_04 0 27 0 0
+in_mumbai_16 0 38 0 0
+qa_doha_01 0 1 0 0
+ru_yaroslavl_88 0 1 0 0
+kr_daejeon_19 0 1 0 0
+us_bellevue_wa 0 1 0 0
+gb_alexandria_w7 0 8 0 0
+us_chicago_il 0 1 0 0
+us_seattle_wa 0 1 0 0
+ru_volgograd_84 0 2 0 0
+us_wilmington_de 0 2 0 0
+ru_vladimir_83 0 1 0 0
+au_mackay_04 0 1 0 0
+us_barstow_ca 0 20 0 0
+us_santa%20clara_ca 0 1 0 0
+us_woodbridge_nj 0 6 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 177
+106.208.128.175 100 363 10823978 20180504145255
+109.177.229.237 76 397 29783976 20180508142150
+117.203.35.121 75 423 14184305 20180502132324
+106.208.203.148 50 336 19208784 20180503123806
+106.208.175.139 39 103 4147219 20180504070051
+223.228.162.112 27 109 470480 20180502142211
+64.233.173.143 26 148 19192207 20180517133314
+59.99.213.244 26 114 4251720 20180503005328
+64.233.173.141 24 160 18558962 20180517133224
+106.208.142.138 21 132 9767258 20180502130731
+64.233.172.243 3 5 63897 20180526071658
+51.15.217.185 1 1 18053 20180516014757
+137.226.113.33 2 16 1690169 20180525163636
+139.190.88.22 7 40 4424434 20180505053516
+91.210.145.70 1 1 18053 20180512114345
+159.203.81.93 1 1 179736 20180503112609
+106.203.90.11 5 7 4038313 20180504080339
+106.208.248.3 3 27 2305124 20180511154709
+66.220.157.229 0 2 885905 
+35.174.154.188 1 1 3987 20180503091117
+66.249.83.94 1 1 0 20180502143254
+173.252.99.55 0 1 112276 
+13.56.232.243 8 8 144424 20180531164817
+117.203.32.36 10 43 8358603 20180504064633
+173.252.86.71 0 1 11496 
+202.166.21.22 0 1 112276 
+211.231.103.107 1 1 18053 20180518091444
+54.227.86.68 1 1 18053 20180514084758
+64.233.173.15 1 11 926321 20180522103638
+109.177.214.224 8 45 88763 20180510101434
+69.171.240.85 1 1 2822 20180504145136
+179.60.146.13 1 1 3987 20180503114545
+176.203.114.36 1 17 3630191 20180522030822
+69.171.225.89 1 1 15083 20180502141456
+163.172.4.153 8 8 130358 20180531100417
+64.246.165.200 1 1 18053 20180528231204
+66.249.83.150 0 2 203938 
+106.208.147.43 1 1 7 20180513120744
+78.100.48.131 0 1 0 
+66.220.157.230 0 1 14643 
+37.214.223.107 1 1 0 20180503115855
+46.100.166.23 12 88 18553779 20180528014954
+64.233.172.239 2 5 50713 20180528010152
+106.203.101.176 6 34 0 20180501114647
+188.166.88.36 2 2 0 20180523105846
+173.252.84.196 1 1 2822 20180504145136
+106.203.93.106 1 1 14227 20180505080002
+64.233.172.176 0 1 4869 
+91.73.39.44 3 27 3797504 20180530043704
+69.63.188.113 0 1 14643 
+103.194.141.219 11 49 2111433 20180505043421
+173.252.98.216 1 1 18056 20180504064519
+198.58.107.211 1 10 65381 20180503100504
+49.205.177.55 3 27 3797504 20180531070422
+161.69.99.11 1 1 18053 20180516014551
+50.112.194.65 1 1 3987 20180503091125
+178.137.165.32 2 2 36106 20180523081056
+106.208.185.197 3 26 0 20180502233753
+66.249.93.207 5 29 2657544 20180531033055
+208.87.233.140 1 2 10180 20180503092122
+113.193.32.24 5 38 4390874 20180530025551
+106.120.160.114 1 1 18053 20180531234630
+64.233.173.14 2 8 1539716 20180522103636
+66.102.7.2 1 8 1312484 20180508055734
+173.252.97.113 0 1 14643 
+159.203.42.143 2 2 20345 20180513120423
+69.171.225.75 0 1 14643 
+104.237.242.242 1 1 18053 20180524115602
+66.102.9.148 1 1 12888 20180502110940
+66.102.6.180 10 58 10255204 20180520075813
+66.220.146.31 1 1 13005 20180502120933
+54.144.222.157 1 1 17600 20180531132039
+106.208.154.93 3 26 18053 20180507094704
+173.252.124.66 0 2 500177 
+204.136.207.140 8 43 8531162 20180508040442
+93.179.69.161 1 1 18053 20180504175215
+107.170.96.6 2 2 190484 20180504134532
+38.80.27.166 1 1 18053 20180505015041
+69.58.178.59 6 6 82141 20180518123717
+64.233.173.16 0 8 1292769 
+220.68.162.100 16 64 7278054 20180518091440
+203.133.180.77 0 1 14643 
+173.252.124.230 0 1 414059 
+176.204.69.57 3 26 18053 20180509073026
+106.208.234.147 1 4 2822 20180504234739
+106.208.241.199 5 32 33861 20180506115327
+54.67.59.131 3 3 26027 20180507023725
+106.208.179.71 3 27 3797504 20180517080616
+173.252.85.219 0 1 10050 
+64.233.172.178 1 1 18053 20180514115300
+69.63.188.111 0 1 86118 
+93.179.68.150 1 1 18053 20180519042913
+52.27.2.86 1 1 3987 20180503172014
+86.108.115.95 13 53 9083401 20180512124834
+173.252.99.51 0 1 14643 
+86.97.125.137 10 82 7817639 20180523203805
+46.118.155.165 2 2 36106 20180525133239
+1.202.73.182 1 1 18053 20180531021555
+211.115.79.122 2 3 14167 20180501203422
+5.45.132.49 6 39 10726121 20180512050233
+218.241.108.76 2 2 36106 20180511231551
+106.208.241.42 5 38 31926 20180504022442
+148.62.14.156 6 6 89982 20180527000900
+124.109.36.117 0 1 86118 
+213.21.201.85 3 27 3797504 20180531043808
+66.249.83.151 1 5 1404135 20180504102412
+104.239.149.11 6 6 89982 20180523064639
+104.237.242.102 1 1 3987 20180502231026
+64.233.172.208 0 1 4869 
+203.88.158.82 6 39 8354610 20180524061209
+159.203.196.79 5 5 143689 20180530043706
+69.171.240.117 1 1 12808 20180502115024
+66.102.6.187 1 2 22922 20180514234842
+185.125.224.4 3 27 3797504 20180515031244
+69.171.240.20 1 1 2822 20180504145137
+216.145.14.142 1 1 18053 20180511010916
+106.208.132.10 3 16 19871 20180507030217
+158.69.117.141 3 3 11961 20180502010739
+66.102.6.77 1 2 22922 20180508055735
+106.208.218.163 1 1 119 20180518074637
+173.252.100.201 0 3 998181 
+64.233.172.210 1 1 18053 20180525065751
+64.233.172.180 1 2 22922 20180516022852
+66.249.93.7 10 34 3324731 20180510000246
+86.97.214.24 20 120 12145425 20180505053512
+94.57.138.154 1 1 59324 20180515042846
+173.252.85.115 1 1 15083 20180502132311
+66.249.93.9 4 20 1162986 20180508002539
+173.252.115.91 0 1 91662 
+173.252.86.83 1 1 11356 20180502132127
+219.140.120.84 3 3 0 20180527093224
+69.171.240.246 0 1 7762 
+38.80.23.122 1 1 3987 20180502231048
+173.252.124.236 0 2 106305 
+31.218.118.219 5 35 6853756 20180517071534
+66.102.7.6 1 7 495964 20180508055735
+66.102.6.176 11 53 9572368 20180513101056
+173.252.115.166 1 1 18056 20180504064518
+2.50.182.142 3 27 3797504 20180527022737
+106.208.158.223 1 8 16824 20180503004151
+104.237.242.89 0 1 4869 
+66.102.6.75 1 4 32660 20180510070912
+94.57.137.142 2 20 6105391 20180514064705
+146.185.223.113 4 4 72212 20180524230348
+162.243.69.215 1 1 2662 20180504143134
+138.68.180.18 1 1 18053 20180519154826
+94.57.165.155 12 75 8385075 20180504070603
+217.165.164.46 3 25 3788759 20180508084119
+54.167.218.28 1 1 3987 20180503172057
+69.63.188.122 0 1 461811 
+64.233.173.142 17 135 11367678 20180517133239
+31.215.109.195 12 89 8156904 20180523031507
+139.59.149.99 1 1 3987 20180503172300
+66.102.6.73 2 2 36106 20180520013937
+173.252.84.203 0 2 35782 
+45.248.117.82 15 79 8517315 20180503123747
+66.102.7.4 1 11 1984187 20180508055735
+66.249.93.206 9 35 3469407 20180531084707
+92.99.163.208 6 48 9457239 20180514105806
+27.0.238.117 1 1 18053 20180519040334
+38.100.21.61 5 10 225801 20180515072803
+66.249.93.208 7 28 2328157 20180528101950
+66.249.93.5 3 13 4580930 20180512031350
+216.69.191.98 1 1 3987 20180503153807
+180.169.191.142 1 1 3987 20180502110921
+106.208.236.59 1 1 119 20180519041056
+188.247.73.163 6 31 7768240 20180512050622
+66.102.9.144 1 1 12888 20180503121742
+66.102.6.178 8 41 4213828 20180511074548
+218.93.124.74 3 27 3797504 20180531231620
+75.149.221.170 1 1 18053 20180520114029
+223.228.189.192 4 27 32280 20180508085509
+51.15.35.25 1 1 18053 20180523132438
+64.233.172.241 2 4 45844 20180531101918
+150.70.188.175 1 1 15507 20180517071505
+173.252.84.199 0 1 10691 
+106.208.205.56 5 32 1343981 20180517133141
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180501 11 40 35029 5
+20180502 216 1188 83544717 33
+20180503 145 767 46057068 25
+20180504 217 858 71108235 28
+20180505 36 195 18681588 11
+20180506 10 61 87724 4
+20180507 8 44 68865 4
+20180508 29 194 23337329 13
+20180509 6 30 71916 4
+20180510 11 50 147495 4
+20180511 8 33 2385027 5
+20180512 34 158 31472926 10
+20180513 23 144 20448936 10
+20180514 13 77 12204746 6
+20180515 12 45 4250395 6
+20180516 3 4 59028 3
+20180517 29 143 16475733 12
+20180518 30 104 11249542 8
+20180519 5 6 77200 5
+20180520 8 35 127794 6
+20180521 5 40 4443163 3
+20180522 8 51 7470947 7
+20180523 21 71 4228173 11
+20180524 12 46 8431691 7
+20180525 7 23 1790172 5
+20180526 7 9 120319 5
+20180527 8 33 3872039 6
+20180528 5 22 3753412 4
+20180529 2 5 60487 2
+20180530 9 67 8318707 3
+20180531 19 117 15328245 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 14
+2mn-5mn 7
+30s-2mn 16
+15mn-30mn 4
+0s-30s 206
+30mn-1h 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 50
+/ 204 3126061 159 125
+/beta2/ 87 1505655 17 16
+/css/fonts/font-icons.woff 54 7908384 8 16
+/beta2/css/fonts/font-icons.woff 46 3594720 5 4
+/css/fonts/Simple-Line-Icons.woff 39 1720396 3 17
+/beta2/css/fonts/Simple-Line-Icons.woff 38 652564 0 0
+/beta2/contactus.php 32 366604 2 2
+/Gotche-static/Stock/admin/view_stock 30 412243 1 1
+/beta2/aboutus.php 28 425247 5 5
+/beta2/chemical-trading.php 25 296020 0 1
+/beta2/css/fonts/lined-icons.woff 21 151392 1 4
+/Gotche-static/Stock/bower_components/font-awesome/fonts/fontawesome-webfont.woff2 9 385800 1 2
+/include/sendemail.php 6 699 1 3
+/Gotche-static/css/fonts/Simple-Line-Icons.woff 2 118648 0 0
+/Gotche-static/ 2 36054 1 0
+/aboutus.php 24 372168 4 8
+/beta/css/fonts/lined-icons.woff 6 113544 0 0
+/beta/css/fonts/font-icons.woff 9 1078416 1 1
+/Gotche-static/Stock/admin/signout 15 29452 3 5
+/Gotche-static/Stock/admin/delete_stock 3 21 1 1
+/Gotche-static/indenting-business.php 1 13101 0 0
+/beta/ 20 219096 17 13
+/beta2/indenting-business.php 21 256042 3 2
+/beta/contactus.html 2 20898 0 0
+/beta2/include/sendemail.php 18 2142 0 2
+/Gotche-static/Stock/ 15 213372 3 4
+/Gotche-static/Stock/admin/ 4 9124 0 0
+/beta/footer.html 8 18695 0 1
+/Gotche-static/Stock/view 7 71532 1 0
+/beta/indenting-business.html 2 11939 1 0
+/Gotche-static/Stock/bower_components/bootstrap/dist/css/bootstrap.min.css.map 2 542194 0 0
+/beta/aboutus.html 1 11837 0 0
+/beta2/index.php 11 189086 2 0
+/engineering-services.php 9 106155 0 2
+/beta/include/sendemail.php 2 238 0 0
+/Gotche-static/index.php 2 36054 0 0
+/Gotche-static/Stock/admin/index 17 44050 3 2
+/Gotche-static/Stock/admin/add_stock 22 237186 2 1
+/chemical-trading.php 23 281083 4 6
+/Gotche-static/Stock/admin/edit_profile 5 52620 2 1
+/Gotche-static/Stock/admin 16 43748 9 8
+/beta2/engineering-services.php 21 238798 3 3
+/beta2/contactus.html 2 10449 0 0
+/include/mailertest.php 2 238 2 2
+/contactus.php 18 205758 2 4
+/css/fonts/font-icons.eot 3 542868 0 0
+/indenting-business.php 13 170742 0 4
+/Gotche-static/css/fonts/font-icons.woff 3 539208 1 1
+/beta/css/fonts/Simple-Line-Icons.woff 6 177972 0 0
+/Gotche-static/Stock/admin/login 1 2822 0 1
+END_SIDER
